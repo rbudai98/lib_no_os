@@ -1,0 +1,13 @@
+name: lib_no_os
+build:
+  cmake: .
+blobs:
+  - path: no_os/lib/no_os
+    sha256: 3a119e0d7935b1983be50af3b6005be5fe434317
+    type: lib
+    version: '1.0.0'
+    license-path: zephyr/blobs/no_os/lib/license.md
+    url: https://github.com/analogdevicesinc/no-OS.git
+    description: "No-Os layer for Zephyr"
+
+    

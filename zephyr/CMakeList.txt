@@ -1,0 +1,10 @@
+# Makefile - No-Os SDK
+#
+# Copyright (c) 2025 Analog Devices Inc.
+#
+# SPDX-License-Identifier: Apache-2.0
+
+#add_subdirectory_ifdef(CONFIG_HAS_STM32CUBE stm32cube)
+# add_subdirectory_ifdef(CONFIG_HAS_NOOS no-os)
+# add_subdirectory()
+
